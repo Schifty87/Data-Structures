@@ -1,0 +1,9 @@
+Gdansk Koszalin
+Gdansk Elblag
+Gdansk Glyko
+Koszalin Poznan
+Koszalin Bydgocscs
+Elblag Olczlyn
+Glyko Warsaw
+Poznan Lodz
+Bydgocscs Radom
