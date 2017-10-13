@@ -1,5 +1,13 @@
 package Project2;
 
+/*
+Depth first search (DFS) using a stack
+to determine how to get from one city to another
+
+Used 2D array to illustrate connections
+*/
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
